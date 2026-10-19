@@ -1,0 +1,8 @@
+streamlit==1.59.2
+tensorflow-cpu==2.20.0
+keras==3.13.2
+PyWavelets==1.8.0
+numpy==2.0.2
+pillow==11.3.0
+opencv-python-headless==5.0.0.93
+requests==2.34.2
